@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+theme.pixflow.net	TRUE	/	FALSE	1999999999	PHPSESSID	8ddb7138a3ac975b7a66aa8c03a8a2f1
+.addtoany.com	TRUE	/	FALSE	1999999999	__cfduid	d503a3b2be64847c1f39ed863a7433d1d1597734329
+static.addtoany.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.google.com	TRUE	/	FALSE	1999999999	NID	204=L1NZ82XRBT3C138a3AJr3WncJzdrld3FVuYoTd4GrzPFElXZvQAuahifceep2_GbffXYMUbPzxbP6qM1ERBUnITRsTqfsCtpUYsOyn6gFugV9jyGXQD5qMo7K6rYJsBm8saAuHyL87xQ5n7uvALP2yexhl84az13Jsv3pmmbAG8
+
